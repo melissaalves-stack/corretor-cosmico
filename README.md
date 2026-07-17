@@ -35,10 +35,6 @@ Construído para o **AWS Builder Center — Weekend Agent Challenge** (Build an 
 └── GUIA_DE_IMPLANTACAO.md  # Passo a passo completo no console AWS
 ```
 
-## Como implantar
-
-Siga o [GUIA_DE_IMPLANTACAO.md](GUIA_DE_IMPLANTACAO.md) — tudo pelo console, em `us-east-1`, dentro do Free Tier.
-
 ## Exemplo de saída
 
 > **🪐 Imóvel do dia: Proxima Cen b**
