@@ -32,7 +32,6 @@ Construído para o **AWS Builder Center — Weekend Agent Challenge** (Build an 
 ├── lambda_function.py      # Código do agente
 ├── iam_policy.json         # Permissões mínimas da Lambda
 ├── arquitetura.svg         # Diagrama
-└── GUIA_DE_IMPLANTACAO.md  # Passo a passo completo no console AWS
 ```
 
 ## Exemplo de saída
